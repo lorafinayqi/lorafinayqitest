@@ -1,0 +1,109 @@
+*test1*
+
+<section id="projects">
+      <div class="container">
+        <div class="row text-center mb-10">
+          <div class="col">
+      <h2 class="title">Illustration</h2>
+        </div>
+      </div>
+      <div class="owl-container">
+        <div class="owl-carousel owl-theme">
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/koko.png" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/koko.png" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+          <div class="item " style="width: 251"><img src="img/poipoi.jpg" alt=""></div>
+        </div>
+      </div>
+    </div>
+  </div>
+      </div>
+    </section>
+
+    *test 2*
+
+     <!-- Project Art-->
+       <!--<section id="projects">
+         <div class="container">
+           <div class="row mb-4">
+             <div class="col">
+               <h3>Collection Art</h3>
+             </div>
+           </div>
+           <div class="row">
+             <div class="col-md-4 mb-3">
+              <div class="card">
+                <img src="img/Frame 18.png" class="card-img-top" alt="Art 1">
+                <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+              </div>
+             </div>
+             <div class="col-md-4 mb-3">
+              <div class="card">
+                <img src="img/Frame 18.png" class="card-img-top" alt="Art 2">
+                <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+              </div>
+             </div>
+             <div class="col-md-4 mb-3">
+              <div class="card">
+                <img src="img/Frame 18.png" class="card-img-top" alt="Art 3">
+                <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+              </div>
+             </div>
+           </div>
+         </div>
+       </section>
+       End Project Art-->
+
+       *test 3*
+
+       /* Collection Art */
+/*.card {
+    overflow: hidden;
+}
+
+.card img {
+    transition: all 1.3s ease;
+}
+
+.card:hover img{
+    transform: scale(1.2);
+}*/
+
+*test 4*
+
+/*
+ #dvo1 {
+    background: url('img/img_1.png');
+    width: 23.33%;
+    float: right;
+    height: 350px;
+ }
+
+ #dvo2 {
+    background: url('img/img_2.jpg');
+    width: 23.33%;
+    float: left;
+    height: 350px;
+}
+
+#dvo3 {
+    background: url('img/img_3.png');
+    width: 23.33%;
+    margin: 0 auto;
+    height: 350px;
+}
+*/
